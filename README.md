@@ -16,7 +16,7 @@ application called "Simple Liker." You'll see several posts which can be "liked"
 by clicking on the heart...well, they _could_ be if the critical code hadn't
 been commented out. This lesson will guide you in uncommenting the critical
 code so that you restore the "like" functionality. In subsequent lessons, you'll
-learn the skills needd to create the pieces that you'll stitch together in this
+learn the skills needed to create the pieces that you'll stitch together in this
 lesson.
 
 ### Identify the Three Essential Pillars of Front-End Web Programming
